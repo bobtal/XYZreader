@@ -42,3 +42,6 @@ captures/
 /.idea/libraries/
 /.idea/caches/
 /.idea/modules.xml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+.idea/vcs.xml
