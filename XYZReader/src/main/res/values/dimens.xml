@@ -1,6 +1,7 @@
 <resources>
     <!-- list -->
     <dimen name="app_bar_elevation">4dp</dimen>
+    <dimen name="cardview_elevation">1dp</dimen>
 
     <!-- detail -->
     <dimen name="detail_title_text_size">32sp</dimen>
